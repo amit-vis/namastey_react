@@ -1,0 +1,22 @@
+{
+  "name": "namasteyreact",
+  "version": "1.0.0",
+  "description": "learning react",
+  "homepage": "https://github.com/amit-vis/namastey_react#readme",
+  "bugs": {
+    "url": "https://github.com/amit-vis/namastey_react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-vis/namastey_react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
